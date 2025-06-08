@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @One-Regular-Guy
-- 👀 I’m interested in Virtualization, Network Admin, DevOps, CyberSecurity
-- 🌱 I’m currently learning Kubernets
-- 💞️ I’m looking to collaborate on Linux Community
+- 👀 I’m interested in Virtualization, Network Admin, DevOps, CyberSecurity, Kubernets
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on OpenSource Community
 - 📫 How to reach me ...
 - 😄 Pronouns: Daemon/Robot
 - ⚡ Fun fact: ...
